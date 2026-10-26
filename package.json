@@ -1,0 +1,6 @@
+{
+  "name": "dobae-customer-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "도배 고객용 견적 페이지 (정적 페이지 + 작은 API)"
+}
